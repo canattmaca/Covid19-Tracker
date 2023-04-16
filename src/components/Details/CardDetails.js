@@ -3,7 +3,6 @@ import { useSelector } from "react-redux";
 import { covidDataSelector ,imageSelector} from "../../redux/Slices/dataSlice";
 import ListGroup from 'react-bootstrap/ListGroup';
 import Card from 'react-bootstrap/Card';
-import Button from 'react-bootstrap/Button';
 
 
 function CardDetails() {

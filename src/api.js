@@ -21,7 +21,3 @@ export const covidApiOptions  = {
 
 export const COVID_API_URL='https://covid-19-coronavirus-statistics.p.rapidapi.com/v1'
 
-
-export const geoUrl =
-  "https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json"
-
